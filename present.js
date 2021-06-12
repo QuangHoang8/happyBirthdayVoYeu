@@ -1,7 +1,7 @@
 var to = "Vợ yêu!";
 var gift_url = "https://www.youtube.com/watch?v=3UyotSd-Cp4";
 
-var gift_image_url = "./anhvo.JPG";
+var gift_image_url = "./anhvo.jpg";
 
 var nametag = document.getElementById("nametag");
 var present = document.getElementById("present");
